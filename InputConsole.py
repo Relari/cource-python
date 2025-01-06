@@ -1,12 +1,12 @@
 
 nombre = input('Ingrese tu nombre: ')
 
-print('Bienvenido: ' + nombre)
+print(f'Bienvenido: {nombre}')
 
 edad = int(input('Ingrese edad: '))
 
-print("Tu edad es: " + str(edad))
+print(f"Tu edad es: {edad}")
 
 peso = float(input('Ingresa tu peso: '))
 
-print('Tu peso es: ' + str(peso))
+print(f'Tu peso es: {peso}')
