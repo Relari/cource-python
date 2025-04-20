@@ -12,3 +12,8 @@ def mensaje(nombre):
     return f"Hello {nombre}"
 
 print(mensaje("Relari"))
+
+def saludar_modulo():
+    print("Saludando desde Funciones")
+
+exit(0)

@@ -8,3 +8,5 @@ while numero < 10:
     numero = numero + 1
 
 print(f'El numero final es {numero}.')
+
+exit(0)

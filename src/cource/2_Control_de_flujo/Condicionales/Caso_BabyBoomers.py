@@ -14,3 +14,5 @@ else:
     generacion = 'No clasificado'
 
 print(f"La generacion es {generacion}")
+
+exit(0)

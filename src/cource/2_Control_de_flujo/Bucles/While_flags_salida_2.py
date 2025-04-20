@@ -11,3 +11,5 @@ while continuar:
         numero = int(input_usuario)
         suma = suma + numero
         print(f'La suma es {suma}')
+
+exit(0)

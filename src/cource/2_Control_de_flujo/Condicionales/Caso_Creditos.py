@@ -14,3 +14,5 @@ if edad >= 18:
 
 else:
     print('No aprobado')
+
+exit(0)

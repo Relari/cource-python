@@ -12,3 +12,5 @@ while numero < 10:
     print(numero)
 
 print(f'El numero final es {numero}.')
+
+exit(0)
