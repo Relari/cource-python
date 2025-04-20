@@ -1,13 +1,13 @@
 class Person:
-    idPerson = int
+    id_person = int
     name = str
 
-    def __init__(self, idPerson, name):
-        self.idPerson = idPerson
+    def __init__(self, id_person, name):
+        self.id_person = id_person
         self.name = name
 
     def print(self):
-        print("Person ->", "id =", self.idPerson, "name =", self.name)
+        print("Person ->", "id =", self.id_person, "name =", self.name)
 
 
 if __name__ == "__main__":

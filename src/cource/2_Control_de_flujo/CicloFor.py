@@ -5,3 +5,5 @@ for i in "Numero":
 lista = ["Pepe","Juan", "Maria", "Ana"]
 for persona in lista:
     print(persona)
+
+exit(0)

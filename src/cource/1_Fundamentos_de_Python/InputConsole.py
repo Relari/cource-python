@@ -10,3 +10,5 @@ print(f"Tu edad es: {edad}")
 peso = float(input('Ingresa tu peso: '))
 
 print(f'Tu peso es: {peso}')
+
+exit(0)

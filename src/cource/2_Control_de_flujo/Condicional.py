@@ -6,3 +6,5 @@ elif edad > 59:
   print("Es adulto mayor")
 else:
   print("Es menor de edad")
+
+exit(0)

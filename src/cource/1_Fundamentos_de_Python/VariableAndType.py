@@ -22,3 +22,10 @@ esActivo = True
 print(type(esActivo))
 mensaje = f"Esta activo: {esActivo}"
 print(mensaje)
+
+numero1, numero2, numero3 = 1,2,3
+print(f"El numero es: {numero1}")
+print(f"El numero es: {numero2}")
+print(f"El numero es: {numero3}")
+
+exit(0)

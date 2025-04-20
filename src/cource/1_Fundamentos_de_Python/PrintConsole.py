@@ -12,3 +12,5 @@ print(5.2)
 # Boolean
 print(True)
 print(False)
+
+exit(0)
