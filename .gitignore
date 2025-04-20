@@ -118,3 +118,5 @@ Desktop.ini
 *.swo
 *.swn
 *~
+
+*.db
